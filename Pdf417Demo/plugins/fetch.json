@@ -1,0 +1,8 @@
+{
+    "mobi.pdf417.Pdf417Scanner": {
+        "source": {
+            "type": "local",
+            "path": "../Pdf417"
+        }
+    }
+}
